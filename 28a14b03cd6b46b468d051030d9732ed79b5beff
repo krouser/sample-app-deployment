@@ -1,0 +1,1 @@
+{"jobID":"1ec49399-0572-52ce-5be2-4638a2a65644","spec":{"type":"policy","cause":{"Message":"","User":"krouser \u003ceast4era@yahoo.com\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
